@@ -1,0 +1,23 @@
+.obertka{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.cube1{
+    height: 500px;
+    width: 500px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cube2{
+    height: 250px;
+    width: 250px;
+    background-color: purple;
+}

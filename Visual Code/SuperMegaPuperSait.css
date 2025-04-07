@@ -1,0 +1,52 @@
+.Odin{
+flex-direction: row;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+left: 525px;
+width: 1325px;
+}
+
+.Dva{
+    position: relative;
+    bottom: 200px;
+    width: 500px;
+}
+
+.Tri{
+position: relative;
+width: 1000px;
+height: 100vh;
+left: 470px;
+bottom: 180px;
+}
+
+.Chetire{
+    position: relative;
+    height: 500vh;
+    width: 300px;
+    bottom: 900px;
+    left: 40px;
+}
+
+.Pat{
+    width: 400px;
+    position: relative;
+    right: 504px;
+    top: 67px;
+}
+
+.Sest{
+    position: relative;
+    bottom: 5950px;
+    width: 300px;
+    left: 1550px;
+}
+
+.Sem{
+    position: relative;
+    width: 400px;
+    bottom: 6000px;
+    left: 1500px;
+}
